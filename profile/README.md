@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Visit-Our_Website-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://enigmanorth.ltht.app/)
 [![Open Source Love](https://img.shields.io/badge/100%25-Open_Source-4ade80?style=for-the-badge&logo=open-source-initiative&logoColor=white)](#)
-[![PaperMC](https://img.shields.io/badge/For-PaperMC-black?style=for-the-badge&logo=minetest&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Join_Our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PdhWHCwUWm)
 
 ---
 
